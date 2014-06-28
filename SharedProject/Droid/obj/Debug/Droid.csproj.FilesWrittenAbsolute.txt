@@ -1,0 +1,13 @@
+/Users/utsavswaroop/Documents/Projects/Xamarin/CrossPlatform/SharedProject/Droid/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/utsavswaroop/Documents/Projects/Xamarin/CrossPlatform/SharedProject/Droid/bin/Debug/Droid.dll.mdb
+/Users/utsavswaroop/Documents/Projects/Xamarin/CrossPlatform/SharedProject/Droid/bin/Debug/Droid.dll
+/Users/utsavswaroop/Documents/Projects/Xamarin/CrossPlatform/SharedProject/Droid/bin/Debug/Droid.Droid.apk
+/Users/utsavswaroop/Documents/Projects/Xamarin/CrossPlatform/SharedProject/Droid/obj/Debug/android/bin/Droid.Droid.apk
+/Users/utsavswaroop/Documents/Projects/Xamarin/CrossPlatform/SharedProject/Droid/obj/Debug/res/layout/main.xml
+/Users/utsavswaroop/Documents/Projects/Xamarin/CrossPlatform/SharedProject/Droid/obj/Debug/res/values/strings.xml
+/Users/utsavswaroop/Documents/Projects/Xamarin/CrossPlatform/SharedProject/Droid/obj/Debug/res/drawable/icon.png
+/Users/utsavswaroop/Documents/Projects/Xamarin/CrossPlatform/SharedProject/Droid/obj/Debug/R.cs.flag
+/Users/utsavswaroop/Documents/Projects/Xamarin/CrossPlatform/SharedProject/Droid/bin/Debug/Droid.Droid-Signed.apk
+/Users/utsavswaroop/Documents/Projects/Xamarin/CrossPlatform/SharedProject/Droid/obj/Debug/uploadflags.txt
+/Users/utsavswaroop/Documents/Projects/Xamarin/CrossPlatform/SharedProject/Droid/obj/Debug/Droid.dll
+/Users/utsavswaroop/Documents/Projects/Xamarin/CrossPlatform/SharedProject/Droid/obj/Debug/Droid.dll.mdb
